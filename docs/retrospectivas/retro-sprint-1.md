@@ -1,7 +1,7 @@
-# Retrospectiva Sprint [1s]
+# Retrospectiva Sprint [1]
 
-**Fecha:** [DD/MM/YYYY]
-**Duración del Sprint:** [Fecha inicio] - [Fecha fin]
+**Fecha:** [14/09/2025]
+**Duración del Sprint:** [14/09/2025] - [14/10/2025]
 
 ## ¿Qué funcionó bien?
 - Prototipado exelente del destock de mi proyecto del Figma.
@@ -22,5 +22,3 @@
 - [ ] Implementar validación visual en todos los campos del formulario.
 - [ ] Mejorar la retroalimentación de contraseña con íconos o colores.
 - [ ] Documentar estructura de carpetas y componentes reutilizables.
-
-
