@@ -1,4 +1,4 @@
-# Sprint Planning - Sprint [1]
+# Sprint Planning - Sprint [Número]
 
 **Fecha de Planning:** [DD/MM/YYYY]
 **Duración del Sprint:** [X semanas]
@@ -10,14 +10,13 @@
 
 ### Historias de Usuario Comprometidas
 
-#### Historia #1: [HU2:Diseño de pantalla de inicio de sesión.]
-- **Como:** [Como diseñador y programador de la aplicación Ecosistemas.]
-- **Quiero:** [Quiero crear una pantalla de inicio de sesión clara, funcional y alineada con el estilo ecológico del sistema.]
-- **Para:** [benefiPara que los usuarios puedan acceder fácilmente a su cuenta y sientan que están usando una herramienta amigable con el medio ambiente.cio]
-- **Story Points:** [08]
+#### Historia #1: [Título]
+- **Como:** [rol]
+- **Quiero:** [funcionalidad]
+- **Para:** [beneficio]
+- **Story Points:** [puntos]
 - **Criterios de Aceptación:**
-  - [ ] [Usar la paleta de colores definida en la guía de estilo]
-  - [ ] [Incluir campos de email y contraseña con etiquetas claras]
-  - [ ] [Botón “Iniciar sesión” con color verde principal]
-  - [ ] [Link de registrarse]
-  - [ ] [Mostrar usuarios de prueba para facilitar la validación]
+  - [ ] [Criterio 1]
+  - [ ] [Criterio 2]
+
+#### Historia #2: [Título]
