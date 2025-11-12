@@ -2,7 +2,7 @@
 
 ## Información del Documento
 
-**Última actualización:** [01/10/2025]  
+**Última actualización:** [DD/MM/YYYY]  
 **Versión del prototipo:** [v1.0]  
 **Herramienta:** Figma  
 
@@ -23,7 +23,7 @@ Este documento centraliza toda la información sobre los **diseños y prototipos
 ## Enlaces Principales
 
 ### Proyecto Principal
-**URL:** [https://www.figma.com/design/TR0ExBriTsHJoEeN9BNHAE/Untitled?node-id=388-452&t=XoXLITwHMWt4u6sh-0](URL_COMPLETA_DE_FIGMA)
+**URL:** [https://www.figma.com/file/XXXXX/nombre-proyecto](URL_COMPLETA_DE_FIGMA)
 
 ---
 
@@ -32,40 +32,40 @@ Este documento centraliza toda la información sobre los **diseños y prototipos
 ### Sistema de Diseño
 
 **Paleta de colores:**
-- **Color primario:** #580979 - Acciones principales
-- **Color secundario:** #BDBDBD - Elementos complementarios
-- **Color de acento:** #000000 - Llamadas a la acción
+- **Color primario:** #436EF0 - Acciones principales
+- **Color secundario:** #43DBF0 - Elementos complementarios
+- **Color de enlace:** #57B7EB - Llamadas a la acción
 - **Colores de estado:**
-  - Éxito: #34E537
-  - Error: #E81E1E
-  - Advertencia: #FCFC66
-  - Info: #000000
+  - Éxito: #03A100
+  - Error: #F5180D
+  - Advertencia: #F0EA16
+  - Info: #858383
 
 **Tipografía:**
-- **Principal:** [inter] - Textos y contenido
-- **Títulos:** [medium] - Encabezados
+- **Principal:** [Nombre de fuente] - Textos y contenido
+- **Títulos:** [Nombre de fuente] - Encabezados 
 
 
 **Espaciado:**
 - Sistema de **8px grid**
-- Espaciado base: x;-2358,y;3071 
+- Espaciado base: 8px, 16px, 24px, 32px
 
 ---
 
 ## Pantallas incluidas:**
 ### Flujo Principal
-1. **Login**
-   <C:\Users\alumno\proyecto-301\docs\figma\Pantallas\HU2;Iniciar seccion.svg>
+1. **Página de bienvenida**
+   
 
 2. **Formulario de registro**
-   <C:\Users\alumno\proyecto-301\docs\figma\Pantallas\HU3;REgistro de ususario.svg>
+   
 
-3. **Pantalla principal**
-   <C:\Users\alumno\proyecto-301\docs\figma\Pantallas\HU4;Panel principal.svg>
+3. **Verificación de email**
    
-4. **Pantalla de mi perfil**
-   <C:\Users\alumno\proyecto-301\docs\figma\Pantallas\HU6_ Diseño de pantalla de perfil de usuario.svg>
+
+4. **Login**
    
+
 **Interacciones prototipadas:**
 - Navegación entre pantallas
 - Validación de formularios
@@ -79,9 +79,9 @@ Este documento centraliza toda la información sobre los **diseños y prototipos
 **Componentes diseñados:**
 
 #### Botones
-- **Primario:** Acciones principales (Iniciar seccion,registrarse)
-- **Secundario:** Acciones secundarias (cancelar, salir)
-- **Terciario:** Acciones terciarias (enlaces, iconos)
+- **Primario:** Acciones principales (guardar, enviar)
+- **Secundario:** Acciones secundarias (cancelar, volver)
+- **Terciario:** Acciones terciarias (enlaces, texto)
 - **Estados:** Default, hover, active, disabled, loading
 
 #### Formularios
@@ -118,8 +118,7 @@ Este documento centraliza toda la información sobre los **diseños y prototipos
 
 **Breakpoints definidos:**
 - **Mobile:** 320px - 767px
-- **Desktop:** w:1728 - H:1117
-
+- **Desktop:** 1024px+
 
 ### Accesibilidad
 
@@ -194,7 +193,7 @@ R: Selecciona el elemento → Export → Configura formato y resolución → Exp
 
 ## Contacto y Soporte
 
-**Responsable de diseño:** [Nikasio]  
+**Responsable de diseño:** [Nombre]  
 **Canal de comunicación:** [Slack, Discord, etc.]  
 **Horario de disponibilidad:** [Especificar]
 
@@ -221,6 +220,6 @@ R: Selecciona el elemento → Export → Configura formato y resolución → Exp
 
 ---
 
-**Última actualización:** [01/10/2025]  
+**Última actualización:** [Fecha]  
 **Mantenido por:** [Equipo de diseño/Product Owner]  
 **Versión del documento:** 1.0
