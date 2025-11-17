@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Register from "./pages/Register";
 import Login from "./pages/Login";
 import LoginSuccess from "./pages/LoginSuccess";
-import Login1 from './pages/Login1';
+import LoginError from './pages/LoginError';
 
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/register" element={<Register/>} />
         <Route path="/login" element={<Login />} />
-        <Route path="/login1" element={<Login1 />} />
+        <Route path="/login-error" element={<LoginError />} />
         <Route path="/login-success" element={<LoginSuccess />} />
       </Routes>
     </BrowserRouter>

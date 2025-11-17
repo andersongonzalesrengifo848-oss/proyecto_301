@@ -15,10 +15,10 @@ const router = express.Router();
  *          example: 1
  *        email:
  *          type: string
- *          example: nikasio@gmail.com
+ *          example: magenta@gmail.com
  *        name:
  *          type: string
- *          example: nikasio
+ *          example: magenta
  */
 
 /**
@@ -49,10 +49,10 @@ router.get("/", userControllers.getUsers);
  *            properties:
  *              email:
  *                type: string
- *                example: nikasio@gmail.com
+ *                example: magenta@gmail.com
  *              name:
  *                type: string
- *                example: nikasio
+ *                example: magenta
  *    responses:
  *      201:
  *        description: Usuario creado correctamente
@@ -89,10 +89,10 @@ router.post("/", userControllers.createUser);
  *            properties:
  *              email:
  *                type: string
- *                example: nikasio@gmail.com
+ *                example: magenta@gmail.com
  *              name:
  *                type: string
- *                example: nikasio
+ *                example: magenta
  *    responses:
  *      200:
  *        description: Usuario actualizado correctamente

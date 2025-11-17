@@ -153,4 +153,4 @@ function LoginView() {
   );
 }
 
-export default Home;
+export default LoginView;
