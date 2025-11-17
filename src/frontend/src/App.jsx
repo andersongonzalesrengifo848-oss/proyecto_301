@@ -1,0 +1,23 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Register from "./pages/Register";
+import Login from "./pages/Login";
+import LoginSuccess from "./pages/LoginSuccess";
+import Login1 from './pages/Login1';
+
+
+function App() {
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/register" element={<Register/>} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/login1" element={<Login1 />} />
+        <Route path="/login-success" element={<LoginSuccess />} />
+      </Routes>
+    </BrowserRouter>
+  );
+}
+
+export default App;
